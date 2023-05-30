@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8"/>
-<title>Estilos CSS</title>
-</head>
-<link rel="stylesheet" type="text/cas" href="estilos.css"
-<body>
-
-</body>
-</html>
+img{
+width: 100px;
+  height: 100px;
+}
